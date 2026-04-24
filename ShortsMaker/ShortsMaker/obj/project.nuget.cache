@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "VaAjLWekUNjZZaZ0IcBmMYpH99hK47Q/lJ3b3ecocC67W4ZWLXVrwiGaSpQwKH3HpGbkXvZGk/jOcewwz0vTew==",
+  "success": true,
+  "projectFilePath": "Z:\\LAB\\MyProjects\\РеферальныйСервисАбуз\\Модуль постинга видео\\ShortsMaker\\ShortsMaker\\ShortsMaker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\karabasik\\.nuget\\packages\\microsoft-windowsapicodepack-core\\1.1.5\\microsoft-windowsapicodepack-core.1.1.5.nupkg.sha512",
+    "C:\\Users\\karabasik\\.nuget\\packages\\microsoft-windowsapicodepack-shell\\1.1.5\\microsoft-windowsapicodepack-shell.1.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
